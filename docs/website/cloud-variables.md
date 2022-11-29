@@ -13,7 +13,7 @@ Some things to keep in mind:
  - To reduce abuse, the cloud variable server rejects any username that doesn't belong to an existing Scratch account.
  - Names of Scratch Team members cannot be used due to potential abuse. That includes ScratchCat.
  - The variable length limit has been significantly increased to allows tens of thousands of characters.
- - Cloud variables can still only hold numbers.
+ - Cloud variables can hold any character if for offline use, but online use cloud variables still only hold numbers.
  - Cloud variables are reset whenever the server restarts or when no one is in the project for a short period of time, so things like leaderboards won't be saved very long.
  - Cloud variables are disabled when the editor is opened.
  - Do not abuse cloud variables to make unmoderated chat rooms.
